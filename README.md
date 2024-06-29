@@ -1,1 +1,2 @@
-# Repository
+# MERN App for Tracking Workouts
+
